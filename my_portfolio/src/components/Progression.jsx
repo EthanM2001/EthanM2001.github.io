@@ -12,7 +12,7 @@ const Progression = () => {
         </p>
         <br />
         <p>
-          CSS <progress value="60" max="100" />
+          CSS <progress value="65" max="100" />
         </p>
         <br />
         <p>
