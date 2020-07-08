@@ -20,9 +20,9 @@ const Main = () => {
       <div id="projects">
         <h1>Projects</h1>
         <p>
-          Throughout Northcoders, I have created multiple projects. For my
-          back-end and front-end phases, I created a forum page which is similar
-          to reddit. I created the back end using Express and MySQL and for the
+          Throughout Northcoders, I have created multiple projects. For my back
+          and front-end phases, I created a forum page which is similar to
+          reddit. I created the back end using Express and MySQL and for the
           front-end, I used React JS. For my project phase, as a group of 4, we
           created an app in which a user can point their camera at a household
           object and it would translate that object into a language of their
