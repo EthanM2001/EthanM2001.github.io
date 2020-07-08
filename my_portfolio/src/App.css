@@ -1,13 +1,26 @@
 .App {
   text-align: center;
 }
+
+* {
+  background-color: rgb(202, 202, 202);
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+}
+
+.header {
+  padding: none;
+  border-bottom: 2px solid black;
+}
+
 .text_1 {
-  border: 2px solid blue;
   animation: text1;
 }
 
 .text_2 {
-  border: 2px solid blue;
   animation: text2;
 }
 
@@ -67,13 +80,15 @@
 }
 
 .github {
-  border: solid 6px red;
-  width: 20px;
-  height: 20px;
+  width: 40px;
+  height: 40px;
 }
 
 .linkedin {
-  border: solid 6px green;
-  width: 70px;
-  height: 70px;
+  width: 40px;
+  height: 40px;
+}
+
+.contactList {
+  list-style: none;
 }
