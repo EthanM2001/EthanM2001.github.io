@@ -12,7 +12,9 @@ const Contact = () => {
             LinkedIn
           </a>
         </li>
-        <li>Github: https://github.com/EthanM2001</li>
+        <li>
+          <a href="https://github.com/EthanM2001">Github</a>
+        </li>
       </ul>
     </div>
   );
