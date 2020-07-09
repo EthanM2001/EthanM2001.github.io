@@ -9,7 +9,6 @@ const Header = () => {
           I am hoping to become a front-end developer
         </span>
       </h1>
-      ;
     </>
   );
 };
